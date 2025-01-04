@@ -31,14 +31,17 @@ Follow the steps below to run this project on your local machine.
    ```bash
    git clone https://github.com/your-username/razorpay-clone.git
 2. Navigate to the project directory:
+   ```bash
    cd razorpay-clone
    
 4. Install Dependencies
+   ```bash
    npm install
 
-   Development Workflow
+Development Workflow
 1. Run Tailwind CSS Build: Compile the Tailwind CSS by running:
-npx tailwindcss -i ./style.css -o ./compiled-styles.css --watch
+   ```bash
+   npx tailwindcss -i ./style.css -o ./compiled-styles.css --watch
 
 This will generate the compiled-styles.css file and watch for changes in style.css.
 
