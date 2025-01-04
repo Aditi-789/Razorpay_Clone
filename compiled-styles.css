@@ -1303,31 +1303,31 @@ video {
 }
 
 .bg-\[url\(\/images\/CTABg\.svg\)\] {
-  background-image: url(/images/CTABg.svg);
+  background-image: url(./images/CTABg.svg);
 }
 
 .bg-\[url\(\/images\/core-features-sectionBg\.svg\)\] {
-  background-image: url(/images/core-features-sectionBg.svg);
+  background-image: url(./images/core-features-sectionBg.svg);
 }
 
 .bg-\[url\(\/images\/instant-settlement-bg\.svg\)\] {
-  background-image: url(/images/instant-settlement-bg.svg);
+  background-image: url(./images/instant-settlement-bg.svg);
 }
 
 .bg-\[url\(\/images\/instantsettlement-bg\.svg\)\] {
-  background-image: url(/images/instantsettlement-bg.svg);
+  background-image: url(./images/instantsettlement-bg.svg);
 }
 
 .bg-\[url\(\/images\/magic-checkout-bg\.svg\)\] {
-  background-image: url(/images/magic-checkout-bg.svg);
+  background-image: url(./images/magic-checkout-bg.svg);
 }
 
 .bg-\[url\(\/images\/payment-button-bg\.svg\)\] {
-  background-image: url(/images/payment-button-bg.svg);
+  background-image: url(./images/payment-button-bg.svg);
 }
 
 .bg-\[url\(\/images\/upi-autopay-bg\.svg\)\] {
-  background-image: url(/images/upi-autopay-bg.svg);
+  background-image: url(./images/upi-autopay-bg.svg);
 }
 
 .bg-cover {
@@ -1678,23 +1678,23 @@ video {
 }
 
 .hover\:bg-\[url\(\/images\/instant-settlement-bghover\.svg\)\]:hover {
-  background-image: url(/images/instant-settlement-bghover.svg);
+  background-image: url(./images/instant-settlement-bghover.svg);
 }
 
 .hover\:bg-\[url\(\/images\/instantsettlement-hoverbg\.svg\)\]:hover {
-  background-image: url(/images/instantsettlement-hoverbg.svg);
+  background-image: url(./images/instantsettlement-hoverbg.svg);
 }
 
 .hover\:bg-\[url\(\/images\/magic-checkout-hoverbg\.svg\)\]:hover {
-  background-image: url(/images/magic-checkout-hoverbg.svg);
+  background-image: url(./images/magic-checkout-hoverbg.svg);
 }
 
 .hover\:bg-\[url\(\/images\/payment-button-hoverbg\.svg\)\]:hover {
-  background-image: url(/images/payment-button-hoverbg.svg);
+  background-image: url(./images/payment-button-hoverbg.svg);
 }
 
 .hover\:bg-\[url\(\/images\/upi-autopay-hoverbg\.svg\)\]:hover {
-  background-image: url(/images/upi-autopay-hoverbg.svg);
+  background-image: url(./images/upi-autopay-hoverbg.svg);
 }
 
 .hover\:text-grayBlue:hover {
