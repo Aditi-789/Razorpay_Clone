@@ -1685,7 +1685,7 @@ video {
   background-image: url(./images/instantsettlement-hoverbg.svg);
 }
 
-.hover\:bg-\[url\(\/images\/magic-checkout-hoverbg\.svg\)\]:hover {
+.hover\:bg-\[url\(\.\/images\/magic-checkout-hoverbg\.svg\)\]:hover {
   background-image: url(./images/magic-checkout-hoverbg.svg);
 }
 
